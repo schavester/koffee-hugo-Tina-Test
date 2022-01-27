@@ -16,7 +16,7 @@ collections: # A list of collections the CMS should be able to edit
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list" }
       - { label: "Categories", name: "categories", widget: "list" }
-     - { label: "Image", name: "thumbnail", widget: "image"}
+      - { label: "Image", name: "thumbnail", widget: "image"}
      
       
       
