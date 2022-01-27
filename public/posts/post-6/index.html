@@ -27,6 +27,8 @@
 
 	<script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
 		<script src="/js/main.js"></script>
+	<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
 </head>
 
 <body>
@@ -139,9 +141,13 @@
 </div>
 	</div>
 	<div class="footer wrapper">
-	<nav class="nav">
-		<div>2022  © Copyright notice |  <a href="https://github.com/knadh/hugo-ink">Ink</a> theme on <a href="https://gohugo.io">Hugo</a></div>
-	</nav>
+  <nav class="nav">
+    <div>
+      2022  © Copyright notice
+      |  <a href="https://github.com/knadh/hugo-ink">Ink</a> theme on
+      <a href="https://gohugo.io">Hugo</a>
+    </div>
+  </nav>
 </div>
 
 
@@ -155,6 +161,18 @@ if (!doNotTrack) {
 }
 </script>
 <script async src='https://www.google-analytics.com/analytics.js'></script>
-<script>feather.replace()</script>
+<script>
+  feather.replace();
+</script><script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", (user) => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
 </body>
 </html>
