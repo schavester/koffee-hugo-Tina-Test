@@ -5,7 +5,7 @@ date: "2021-01-16"
 
 I am forever fascinated by GrowLA's [Facebook page](https://www.facebook.com/groups/GrowLA). They are first-tier density cheerleaders, fervently committed to tearing down any and all Los Angeles and replacing it with vast swaths of multi-units. Here is their cover page:
 
-![](images/Screen-Shot-2021-01-15-at-12.48.41-PM-1-1024x708_digital_art_x4-1-1024x708.jpg)
+![](/images/Screen-Shot-2021-01-15-at-12.48.41-PM-1-1024x708_digital_art_x4-1-1024x708.jpg)
 
 __Advocacy_ group CA-YIMBY is funded by the Building Industry Association, Construction Trades Council, Regional Council of Carpenters, and the Plumbers & Pipefitters Union, God bless 'em_
 
@@ -13,7 +13,7 @@ Need I say, the _opposite_ of this graphic is the actual truth. According to stu
 
 What sort of thing gets posted on GrowLA? This is typical:
 
-![](images/7f6e4-screen-shot-2021-01-13-at-7.02.23-pm.jpg)
+![](/images/7f6e4-screen-shot-2021-01-13-at-7.02.23-pm.jpg)
 
 _It's like looking down the Norden bombsight_
 
@@ -21,15 +21,15 @@ There's you answer, "get" the City of Los Angeles to "do this," what, through em
 
 And what are we to replace Los Angeles' single-family-dwellings _with_? Micro-Units, of course!
 
-![](images/Screen-Shot-2021-01-13-at-7.00.13-PM-1024x990.jpg)
+![](/images/Screen-Shot-2021-01-13-at-7.00.13-PM-1024x990.jpg)
 
 _How can it be spread, John? Like any infectious disease, I suppose..._
 
 When you read this article, you're supposed to feel warm and fuzzy because look! there's more units and they COST LESS! Win for millennials!
 
-![](images/1f050-screen-shot-2021-01-15-at-1.41.09-pm.jpg)
+![](/images/1f050-screen-shot-2021-01-15-at-1.41.09-pm.jpg)
 
-![](images/8ce9b-screen-shot-2021-01-15-at-1.38.04-pm.jpg)
+![](/images/8ce9b-screen-shot-2021-01-15-at-1.38.04-pm.jpg)
 
 Of course, what they fail to explicate: When you spend that $2,305 for a one-bedroom you are getting on average 768 square feet. That is because average rent around there is $3/sf. _Ergo_, the 265 square foot apartment at MicroUnitz _should_ cost $795 a month. _Why_ then would you pay $1500, or $5.66 a square foot, for your tiny place, when $5.66/sf is the going rate in Beverly Hills? But think of the amenities! Like not...having...parking...or a closet.
 
@@ -37,7 +37,7 @@ But you're not supposed to ask these questions. You're supposed to just accept t
 
 The new way of living is certainly the pod. All hail [the pod](https://www.cnn.com/2019/07/05/success/podshare-co-living/index.html)! [Here is General Pod discussing life in the Pod](https://twitter.com/CNN/status/1146977277252648965). Moscow-born Elvina Beck, CEO of PodShare, formed PodShare "like the idea of the government giving you everything in a Communist state"...though you still have to pay $1200 for the privilege. Which I suppose is a step up from living in disused sewer pipes:
 
-![](images/7aba8-screen-shot-2021-01-15-at-2.19.16-pm.jpg)
+![](/images/7aba8-screen-shot-2021-01-15-at-2.19.16-pm.jpg)
 
 _I like the big glass wall that underscores "your basic human right to privacy is a lie"_
 
@@ -45,7 +45,7 @@ Los Angeles has been criticized as an exclusionary region for homebuyers, though
 
 Well then I guess I don't know _what_ will happen. People like me will keep complaining I suppose, but I am after all _the problem_, according to our pals at GrowLA:
 
-![](images/99b8a-screen-shot-2021-01-15-at-1.11.54-pm-1.jpg)
+![](/images/99b8a-screen-shot-2021-01-15-at-1.11.54-pm-1.jpg)
 
 _Yeahhh, my property taxes prop up your teacher's union, so you're welcome_
 

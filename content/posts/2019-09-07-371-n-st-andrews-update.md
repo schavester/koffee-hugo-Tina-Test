@@ -15,32 +15,32 @@ From _allison schallert_: this was torn down over a year and a half ago. the you
 
 So here's something else I found out. A Bing maps aerial is a lot more current than a Google street-map.
 
-![](images/9ecd6-st-andrews-from-above.jpg)
+![](/images/9ecd6-st-andrews-from-above.jpg)
 
 Lookit that. A big lot full of dirt. The first thing that caught my eye was the large white building to the south. Didn't my ninety-two intersection images prove that there were no VeryTall buildings in the vicinity?
 
-![](images/Screen-Shot-2019-09-06-at-6.23.03-PM-947x1024.jpg)
+![](/images/Screen-Shot-2019-09-06-at-6.23.03-PM-947x1024.jpg)
 
 The one on the right, a ten-room, two-unit, designed by A. J. Badger and built in 1920. On the left, a bungalow from 1913. It's nice to know Los Angeles can be so cavalier about tearing down its [bungalows](https://laist.com/2016/04/15/bungalow_history.php). And this one is on record as being designed by female architect Anna K. Hallock. Well, was. Protip: invest in landfills.
 
 So while we're on the subject of the immediate neighborhood (as LC states, there are "hideous boxy eyesores" scattered about the immediate landscape) I pulled up a bit and said what the hell is _that_?
 
-![](images/Screen-Shot-2019-09-06-at-6.35.27-PM-1024x470.jpg)
+![](/images/Screen-Shot-2019-09-06-at-6.35.27-PM-1024x470.jpg)
 
-![](images/a25bc-screen-shot-2019-09-06-at-7.32.55-pm.jpg)
+![](/images/a25bc-screen-shot-2019-09-06-at-7.32.55-pm.jpg)
 
 So recently lost are 4847 (51) , 4843 (52) , 4837 (53), and 4833 (54) Oakwood, for whatever that big grey thing is. Because unless I do it, no-one else will and they will be lost forever, let's look at them.
 
 4847 Oakwood. Look at that amazing, healthy tree. They ripped it out, because they could. Imagine you lived across the street for fifty years and that tree was already old when you moved in.
 
-![](images/Screen-Shot-2019-09-06-at-7.37.26-PM-1024x640.jpg)
+![](/images/Screen-Shot-2019-09-06-at-7.37.26-PM-1024x640.jpg)
 
 _Look, I'm not an eco guy, I'm a building guy. But aren't the folks who, really, really like trees upset that developers are ripping up and destroying all the trees in Los Angeles? Shouldn't the knowledge of that be, you know, a_ thing_?_ Hey tree people you're losing your canopy.  
 _Oh, and 4847 Oakwood was apparently built before 1905, because no building records exist of it._
 
-![](images/Screen-Shot-2019-09-06-at-8.34.44-PM-1024x521.jpg)
+![](/images/Screen-Shot-2019-09-06-at-8.34.44-PM-1024x521.jpg)
 
-![](images/Screen-Shot-2019-09-06-at-6.50.21-PM-1024x448.jpg)
+![](/images/Screen-Shot-2019-09-06-at-6.50.21-PM-1024x448.jpg)
 
 _Oooo look honey, curb appeal! Hey you sonsabitches, here's a protip, don't paint everything white and put in vinyl windows and CUT OFF YOUR RAFTER TAILS! But I guess it doesn't matter when Dan Zaharias of Oakwood Development comes to town and destroys it a couple years later anyway._
 
@@ -48,6 +48,6 @@ Above: 4833 Oakwood was one of Los Angeles' earlier bungalows as its constructio
 
 And here is a summerhouse built by Leonard Jones, designed by A. M. Brown, in 1923.
 
-![](images/Screen-Shot-2019-09-06-at-8.34.44-PM-1-1024x521.jpg)
+![](/images/Screen-Shot-2019-09-06-at-8.34.44-PM-1-1024x521.jpg)
 
 Ooop! Despite the fact that there are more buildings that died, that need to be remembered, I have to go right now, so if you will, excuse me.

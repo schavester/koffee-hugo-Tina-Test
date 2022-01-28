@@ -9,7 +9,7 @@ My favorite stretch on Beverly is this one run, that stretch between Virgil and 
 
 I wrote about Beverly in general, and the magical corner of Beverly & Heliotrope in particular, twenty years ago in _[Los Angeles Neon](https://www.schifferbooks.com/los-angeles-neon-1410.html)_:
 
-![](images/Screen-Shot-2021-02-06-at-4.09.54-PM-827x1024.jpg)
+![](/images/Screen-Shot-2021-02-06-at-4.09.54-PM-827x1024.jpg)
 
 _Along the Beverly side of the structure is one of the best 1930s [Art Deco neon signs](https://live.staticflickr.com/65535/50917170291_9b08fc1ef7_o.jpg) in Los Angeles. [Here](https://live.staticflickr.com/65535/50916158778_15328a7e43_o.jpg) is an ad for the Beverly Mart from December 1938._
 
@@ -17,19 +17,19 @@ Also smack dab in the middle of it all—at Heliotrope, across the intersection 
 
 Take a look at the following images. This is one damn amazing structure.
 
-![](images/Screen-Shot-2021-02-09-at-2.23.05-PM-1024x655.jpg)
+![](/images/Screen-Shot-2021-02-09-at-2.23.05-PM-1024x655.jpg)
 
 _The left turn spake of in_ Los Angeles Neon_. The market, in orange, at Heliotrope; there's the Dicksboro in the distance, and the 1965 Beverly-Catalina Car Wash hiding in the foliage at right_
 
-![](images/Screen-Shot-2021-02-09-at-2.40.12-PM-1024x885.jpg)
+![](/images/Screen-Shot-2021-02-09-at-2.40.12-PM-1024x885.jpg)
 
 _Bow before me!_
 
-![](images/Screen-Shot-2021-02-09-at-2.41.22-PM-1024x923.jpg)
+![](/images/Screen-Shot-2021-02-09-at-2.41.22-PM-1024x923.jpg)
 
 _Jeez kinda reminds me of the tower of the old Morgan, Walls & Clements [KEHE/KFI building](https://live.staticflickr.com/65535/50927290446_490e09615f_o.jpg) that's just a few blocks away on Ver—[oh wait the City tore it town](https://urbandiachrony.wordpress.com/2011/04/20/kehe-radio-building-141-n-vermont-avenue-1940-2011/)_
 
-![](images/Screen-Shot-2021-02-09-at-2.56.43-PM-1024x518.jpg)
+![](/images/Screen-Shot-2021-02-09-at-2.56.43-PM-1024x518.jpg)
 
 _Like the painted letters, it once would have had large lettering like [this](https://live.staticflickr.com/65535/50927469922_983062c25e_o.jpg). Gads, what I wouldn't give for a shot of this market in 1937._
 
@@ -37,19 +37,19 @@ How is it that stepped pylon remained standing after the Parapet Ordinance of 19
 
 3967-3977 Beverly was designed by Edwin Felix Rudolph (1895-1942) and built in the summer/fall of 1936. It was funded by Mrs. Alice B. Cohen who lived next door at 301 N. Berendo (more on 301 N. Berendo later). In 1939 it was the Continental Grocery, by 1945 it was the B & B Meat Market (although I suspect the B & B Meat Market was located _inside_ the Continental Grocery).
 
-![](images/9befb-screen-shot-2021-02-07-at-5.47.43-pm.jpg)
+![](/images/9befb-screen-shot-2021-02-07-at-5.47.43-pm.jpg)
 
 _That is, I believe the market rented out to various sub-markets, à la Grand Central Market; case in point, this ad, which dates to September 1939_
 
 Who was Edwin Felix Rudolph? He's not particularly well-known, Sinaloa Market being, in my humble opinion, his best work (or best _known_ work, there's a lot more research to be done on Rudolph). Here is his 1939 Streamline Moderne industrial building for Central Realty at 3101 East 12th St.—
 
-![](images/Screen-Shot-2021-02-07-at-1.38.17-PM-1024x624.jpg)
+![](/images/Screen-Shot-2021-02-07-at-1.38.17-PM-1024x624.jpg)
 
 _Look closely and note the glass brick adjacent the rounded corner_
 
 And this is his 1937 industrial building for the Brin Brothers at 631 South Anderson:
 
-![](images/Screen-Shot-2021-02-07-at-1.46.27-PM-1024x686.jpg)
+![](/images/Screen-Shot-2021-02-07-at-1.46.27-PM-1024x686.jpg)
 
 _I'd tell you to personally go take in the glory of that Deco door and marvel at the Streamline pilasters but this building was unfortunately [too near the 1932 Sixth Street Bridge](https://live.staticflickr.com/65535/50920301642_d5251ce16b_o.jpg). Yeah, they [tore that down too](https://live.staticflickr.com/65535/50920301712_197b5baf93_o.jpg)._
 
@@ -61,7 +61,7 @@ Its corner shop at 3977 began life as a malt shop, became a cleaners, was an ins
 
 And because this is RIPLosAngeles, you know where this is going. Yep:
 
-![](images/Screen-Shot-2021-02-07-at-4.57.01-PM-1024x536.jpg)
+![](/images/Screen-Shot-2021-02-07-at-4.57.01-PM-1024x536.jpg)
 
 _How many kinds of beige **is** that? I see soiled diaper beige, Depression Beige™, vomit beige and some kind of grayish brown that's not quite beige but trying very hard to be_
 
@@ -75,27 +75,27 @@ But then, he's probably just getting his information from what he was given by K
 
 Anyway. The other day this image appeared [on Esotouric's IG](https://www.instagram.com/p/CK0LDk2oUiz/):
 
-![](images/Screen-Shot-2021-02-06-at-3.21.06-PM-1-1024x562.jpg)
+![](/images/Screen-Shot-2021-02-06-at-3.21.06-PM-1-1024x562.jpg)
 
 _The writing on the side of the building reads "I am a moral leper, do us both a favor and cut off my hands"_
 
 So that, being demo fencing, is _that_. But wait! Don't answer yet! You'll also receive THE DEMOLITION OF THESE THREE SINGLE FAMILY HOMES!
 
-![](images/Screen-Shot-2021-02-07-at-7.22.07-PM-1024x400.jpg)
+![](/images/Screen-Shot-2021-02-07-at-7.22.07-PM-1024x400.jpg)
 
 _There's our market bottom left, but they're also tearing down the SFD to its north at 306 N Heliotrope, and the two houses to its west, at 301 & 307 N Berendo_
 
 That's right, immediately to the east, at 301 North Berendo (where Alice B. Cohen lived, who built the Continental/B & B Market, remember?) is this lovely little house, which the City report refers to as a "commercial building," which I suppose is fair. It began as an SFD, and became a commercial building, converted to a restaurant:
 
-![](images/Screen-Shot-2021-02-08-at-12.32.04-AM-1024x877.jpg)
+![](/images/Screen-Shot-2021-02-08-at-12.32.04-AM-1024x877.jpg)
 
 301 was constructed in 1919 by builder Samuel W. Spangler, who acted as its architect; Spangler was one of the many LA entrepreneurs who built and sold concrete bungalows in the teens. It was a restaurant by 1942, when owned by Lucille Rowley, and through the 1950s was Lucille's Cottage.
 
-![](images/8cbc7-screen-shot-2021-02-08-at-3.26.01-pm.jpg)
+![](/images/8cbc7-screen-shot-2021-02-08-at-3.26.01-pm.jpg)
 
 _Women cooks only!_
 
-![](images/Screen-Shot-2021-02-08-at-3.37.39-PM-1024x639.jpg)
+![](/images/Screen-Shot-2021-02-08-at-3.37.39-PM-1024x639.jpg)
 
 _I see you, rock chimney hiding in the foliage_
 
@@ -103,25 +103,25 @@ In 1961 it became, briefly, Young's Oriental Inn—"[The Oriental Gourmet Spot o
 
 This it Atlacatl's neighbor to the north, 307 North Berendo:
 
-![](images/Screen-Shot-2021-02-08-at-12.49.37-PM-1024x837.jpg)
+![](/images/Screen-Shot-2021-02-08-at-12.49.37-PM-1024x837.jpg)
 
 Like Spangler, Ira Allison Marshall was a local realty man, who built, bought and sold bungalows across Los Angeles in the teens, perhaps as many as 250, mostly in the Westlake district. Marshall built this in early 1919. It has a wonderful clipped gable roof, and the traditional American Colonial boxed eave return above the porch. Look at all those original windows! In December 1979, 301-307 N. Berendo became the International Institute of the Maitre-D', which transformed into the National Restaurant Academy in September 1980, and which apparently dissolved in mid-late 1983.
 
 To the west of our friends on Berendo, at the north of our market, is 306 North Heliotrope:
 
-![](images/Screen-Shot-2021-02-08-at-12.57.16-PM-1024x905.jpg)
+![](/images/Screen-Shot-2021-02-08-at-12.57.16-PM-1024x905.jpg)
 
 _Look at the pride of place here—Google Street even managed to capture the gardener plying his trade_
 
 Again, American Colonial built in 1919, this time for a Ms. Gretta C. Sutherland; the builder was Charles MacMillan. Gable roofed, hipped n' clipped, with a wonderful matching clipped hip porch gable. Tough to see through the security bars but, like the house behind it on Berendo, original sidelights and windows (double hung in this case) and, I hope I don't have to point out, marvel of marvels, neither house has been stucco'd.
 
-[![](images/Screen-Shot-2021-02-08-at-2.39.55-PM-1024x488.jpg)](https://www.unigo.com/scholarships/by-major/major-specific-scholarships/dr-james-w-fitches-fellowship)
+[![](/images/Screen-Shot-2021-02-08-at-2.39.55-PM-1024x488.jpg)](https://www.unigo.com/scholarships/by-major/major-specific-scholarships/dr-james-w-fitches-fellowship)
 
 _Also, in the late 40s this is where you'd go for your colon hydrotherapy—including expert manipulation by a Graduate Nurse_
 
 So as I was saying. All this gets dumpster'd in favor of this—
 
-![](images/Screen-Shot-2021-02-08-at-3.39.37-PM-1024x534.jpg)
+![](/images/Screen-Shot-2021-02-08-at-3.39.37-PM-1024x534.jpg)
 
 Yes_, build this and the neighborhood will populate with scissor-door cars and baby strollers_
 
@@ -145,6 +145,6 @@ _Saving the world from the Streamline Moderne one 1936 market at a time_
 
 _The sad end of 307 N Berendo, which survived unmolested for over one hundred years..._
 
-![](images/screen-shot-2022-01-11-at-2.09.14-pm.jpg)
+![](/images/screen-shot-2022-01-11-at-2.09.14-pm.jpg)
 
 _Atlacatl must die, because some Westside YIMBY said so, you racist_

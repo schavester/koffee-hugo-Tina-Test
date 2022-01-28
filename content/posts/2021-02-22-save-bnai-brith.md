@@ -11,7 +11,7 @@ The Church in Los Angeles has had a troubling history with historic buildings, r
 
 _**The Oviatt Building**._ James Oviatt's eponymous high-rise [haberdashery/office tower](http://bigorangelandmarks.blogspot.com/2008/11/no-195-oviatt-building.html) (Walker & Eisen, 1928) is one of the great Art Deco monuments of Los Angeles, and therefore the world, known for its cut glass, rare woods, neon clock tower and [incredible penthouse](https://www.flickr.com/search/?text=oviatt%20penthouse). Mr. Oviatt was renting the land on which the tower sat from the Archdiocese. In the late 1960s-early '70s, with demand for non-polyester clothing on the outs, Oviatt tried to sell his building, to pay back rent owed to the Archdiocese. The Archdiocese sabotaged several escrow attempts by making financially unfeasible demands (installation of central air, replacement of the elevators, etc.) on potential buyers. James Oviatt died in 1974 and the building's trustees voted to give the structure to the Archdiocese in forgiveness of past rent. The Archdiocese immediately put the building on the market as a teardown, informing realtors it would provide the ideal site for a multistory parking garage.
 
-![](images/Screen-Shot-2021-02-20-at-12.42.51-PM-2-1024x703.jpg)
+![](/images/Screen-Shot-2021-02-20-at-12.42.51-PM-2-1024x703.jpg)
 
 _Fortunately, Wayne Ratkovich bought the place and saved it in 1977. Image from [Floyd Bariscale](https://www.flickr.com/photos/7294653@N07/3020759019/)._
 
@@ -25,13 +25,13 @@ _**Cathedral of St. Vibiana**_. This tale is so famous it hardly bears repeating
 
 His Eminence Cardinal Roger Mahony wanted to tear down the 1876 Cathedral. After the 1994 Northridge earthquake, his structural engineer told him the structure was sound, although the bell tower required shoring; the Church did not shore the bell tower. In May 1996 Mahony began the process of removing statuary and the windows of the structure; illegal for a Historic-Cultural Monument. On June 1, 1996—early on a Saturday morning (and when, conveniently, all of LA's top preservationists happened to be away at a conference in San Jose)—demolition crews set to work illegally demolishing the structure. Concerned parties rushed to the site but were ignored by guards at the fence; it took a Superior Court Judge to get him to stop.
 
-![](images/Screen-Shot-2021-02-20-at-3.42.07-PM-1024x612.jpg)
+![](/images/Screen-Shot-2021-02-20-at-3.42.07-PM-1024x612.jpg)
 
 [_Huntington Library_](https://hdl.huntington.org/digital/collection/p15150coll2/id/20600/rec/4)
 
 A legal battle ensued, St. Vibiana did _not_ become a parking lot, and Mahony finally swapped his little church for six acres of County land bordered by Grand, Temple, Hill, and the Hollywood Freeway.  Mahony’s stripped-down, deconstructivist, $250 million church broke ground in September 1997 and was consecrated in September 2002.  
 
-![](images/vibianas-1024x643.jpg)  
+![](/images/vibianas-1024x643.jpg)  
 
 _Deconsecrated, retrofitted, it has since become [an event space](http://vibiana.com/about/venue/capacity/). If you're familiar with [John 2:16...](http://blog.adw.org/2011/05/my-fathers-house-has-become-a-markeplace-the-sad-tale-of-once-splendid-church/)_
 
@@ -43,11 +43,11 @@ First of all, do not confuse the B'nai B'rith about which we are speaking with _
 
 Rather, we are discussing B'nai B'rith, the [service organization](https://en.wikipedia.org/wiki/B%27nai_B%27rith) (which also functioned very much like a fraternal lodge). The International Order of B'nai B'rith, begun in New York in 1843, founded its Los Angeles chapter, Orange Lodge No. 224, in 1874, and another, Semi-Tropic Lodge in 1883; they merged to become Lodge 487 in 1899. In the 1880s B'nai B'rith met at Bryson's Hall on Spring Street; in January 1904, when they had 170 members, they dedicated a fine new hall at 521 West Pico. By 1918 they had moved to a new lodge hall at 17th & Georgia. In the January 13, 1922 issue of _The B'nai B'rith Messenger_, under notices about Lodge 487:
 
-![](images/Screen-Shot-2021-02-20-at-10.54.22-PM-1024x444.jpg)
+![](/images/Screen-Shot-2021-02-20-at-10.54.22-PM-1024x444.jpg)
 
 _Fun fact: the weekly_ B'nai B'rith Messenger _was not a publication of the Independent Order of B'nai B'rith, just as the IOBB was not allied with Congregation B'nai B'rith. Jews just love naming stuff B'nai B'rith is all. (Tr. "Children of the Covenant.")_
 
-![](images/Screen-Shot-2021-02-21-at-12.49.39-PM-1024x766.jpg)
+![](/images/Screen-Shot-2021-02-21-at-12.49.39-PM-1024x766.jpg)
 
 It contained "two large lodge-rooms, banquet hall, dancing floors, library, kitchen, elevators, committee-rooms, spacious lobby, gymnasium, shower baths and eight handsome stores" according to [this](https://live.staticflickr.com/65535/50966601578_cd04797a27_o.jpg). And its architect was Samuel Tilden Norton. 
 
@@ -55,7 +55,7 @@ It contained "two large lodge-rooms, banquet hall, dancing floors, library, kitc
 
 S. Tilden Norton is of such glaring importance to Los Angeles's built environment that...I won't make this post any longer by detailing his work here. Go read [his Wiki page](https://en.wikipedia.org/wiki/Samuel_Tilden_Norton).
 
-![](images/Screen-Shot-2021-02-21-at-1.17.52-PM-1024x791.jpg)
+![](/images/Screen-Shot-2021-02-21-at-1.17.52-PM-1024x791.jpg)
 
 Note that the exterior is done in Batchelder tile. Like S. Tilden Norton, I don’t have to tell you of the [importance](https://la.curbed.com/2020/2/24/21133607/batchelder-tiles-fireplace-house-biography) of [Batchelder](https://en.wikipedia.org/wiki/Ernest_A._Batchelder) tile.
 
@@ -71,15 +71,15 @@ By the mid-1930s, the IOBB 487 have moved, presumably because of the Depression,
 
 By 1945 it was just known as the "Teamsters Hall," "AFL Hall" or the "Teamsters Building." Here's a shot outside 846, showing worker's wives protesting the Teamsters' throwing them out of work for the holidays:
 
-![](images/Screen-Shot-2021-02-21-at-2.28.35-PM-660x1024.jpg)
+![](/images/Screen-Shot-2021-02-21-at-2.28.35-PM-660x1024.jpg)
 
 _Only vintage shot I've found of the exterior, November 1955_. _The round neon sign (there were two, one on each side of the building) was fabricated by QRS neon and installed in the spring of 1949._ _It would have looked very much like [this](https://live.staticflickr.com/3885/14601693095_8a5dbf6fe6_b.jpg)._
 
-![](images/Screen-Shot-2021-02-21-at-2.19.38-PM-1024x823.jpg)
+![](/images/Screen-Shot-2021-02-21-at-2.19.38-PM-1024x823.jpg)
 
 _Inside the hall! [LAPL doesn't give a date for this image](https://tessa.lapl.org/cdm/singleitem/collection/photos/id/8238/rec/27)—there were so many transit strikes normally it would be impossible to pinpoint this photo, but they do mention it's during Shrine Week; therefore this was shot during the mass meeting of June 17, 1950_
 
-![](images/Screen-Shot-2021-02-21-at-3.10.51-PM-1024x737.jpg)
+![](/images/Screen-Shot-2021-02-21-at-3.10.51-PM-1024x737.jpg)
 
 _And THAT's why all along the top of the building you have these nifty medallions that read AFL, and wagon wheels, symbol of the IBT_
 
@@ -87,11 +87,11 @@ Teamsters Hall was renamed Roosevelt Hall in 1960. The Teamsters moved out about
 
 And _that_ brings us around back to the Church. The property, and its large adjacent parking lot, was purchased in September 2018 by Catholic Charities of Los Angeles, Inc., which is the social service arm of the Archdiocese of Los Angeles. Catholic Charities intends to demolish the building:
 
-![](images/Screen-Shot-2021-02-21-at-6.20.19-PM-1024x824.jpg)
+![](/images/Screen-Shot-2021-02-21-at-6.20.19-PM-1024x824.jpg)
 
-![](images/Screen-Shot-2021-02-21-at-6.23.12-PM-1024x648.jpg)
+![](/images/Screen-Shot-2021-02-21-at-6.23.12-PM-1024x648.jpg)
 
-![](images/Screen-Shot-2021-02-21-at-6.43.07-PM-1024x566.jpg)
+![](/images/Screen-Shot-2021-02-21-at-6.43.07-PM-1024x566.jpg)
 
 _The Demolition Notice was affixed to the wall a year ago, according to [this Instagram post](https://www.instagram.com/p/CLQigT1LDUp/)_
 

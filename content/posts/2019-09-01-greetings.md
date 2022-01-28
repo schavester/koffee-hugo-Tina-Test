@@ -13,13 +13,13 @@ Rather, I'm here to show you what's going away. The premise of this blog is simp
 
 Here is 154 South Occidental Blvd. It was built in 1923.
 
-![](images/Screen-Shot-2019-08-25-at-11.34.11-AM-1-1024x711.jpg)
+![](/images/Screen-Shot-2019-08-25-at-11.34.11-AM-1-1024x711.jpg)
 
 _Records show the living room had to be enlarged in 1937 to accommodate the installation of a pipe organ._
 
 154 is being replaced by a five-story, thirty-six unit project.
 
-![](images/Screen-Shot-2019-08-25-at-11.33.13-AM-1-1024x507.jpg)
+![](/images/Screen-Shot-2019-08-25-at-11.33.13-AM-1-1024x507.jpg)
 
 _Look at the roofline on its neighbor 160, built in 1920. Holy smokes._ _Is it next?_ _According to [UrbanizeLA](https://web.archive.org/web/20190901195541/https://urbanize.la/post/1920s-single-family-dwellings-could-make-way-apartments-westlake)_[](https://web.archive.org/web/20190901195541/https://urbanize.la/post/1920s-single-family-dwellings-could-make-way-apartments-westlake)[](https://urbanize.la/post/1920s-single-family-dwellings-could-make-way-apartments-westlake) _it is similarly doomed, but the_ [_plans_](http://planning.lacity.org/pdiscaseinfo/CaseId/MjMxNzUx0) _don't make mention of it. Seems like the folk at Urbanize got a fly in their ear at the TOC lobbyist bar._
 
