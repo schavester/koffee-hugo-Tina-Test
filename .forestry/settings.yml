@@ -19,8 +19,8 @@ sections:
   label: Pages
   create: all
   match: "*"
-upload_dir: https://res.cloudinary.com/chickenbutt/image/upload
-public_path: https://res.cloudinary.com/chickenbutt/image/fetch
+upload_dir: ''
+public_path: ''
 front_matter_path: ''
 use_front_matter_path: true
 file_template: ":filename:"
